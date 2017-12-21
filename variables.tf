@@ -1,10 +1,10 @@
 variable "AzureCredentials" {
   description = "Credentials to log in to Azure"
   default = {
-    "Subscription_ID"   = "fff7e1c3-c179-4d20-b449-d68892115292"
-    "Client_ID"         = "d4562d4b-80c4-4912-880d-58ad28941b80"
-    "Client_Secret"     = "5hpJHAtO+tjBgn6vNQY2GIl4sFMEidJjTBiHXoNa8eU="
-    "Tenant_ID"         = "72f988bf-86f1-41af-91ab-2d7cd011db47"
+    "Subscription_ID"   = ""
+    "Client_ID"         = ""
+    "Client_Secret"     = ""
+    "Tenant_ID"         = ""
   }
 }
 
